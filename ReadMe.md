@@ -13,7 +13,7 @@
 
 ### Glad to see you here!  
 let's do some coding and talk about angels and demons. 
-cause I am lazy writing about me....s  
+cause I am lazy writing about me.... 
   
 
 <br/>  

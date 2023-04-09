@@ -38,7 +38,7 @@ cause I am lazy to write anthing more.
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/564x/4a/1e/93/4a1e93a2467a0ab45cb7c0ee032f6d47.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/564x/bc/98/b7/bc98b770a504edbf0910d98768070467.jpg" align="center" style="width: 100%" />
 </div>  
 
 

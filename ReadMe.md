@@ -1,4 +1,4 @@
-## Hey 👋, I'm Gourav Anand aka sam   
+## Hey 👋, I'm Sam   
   
 
 <a href="https://github.com/venomusblood568" target="_blank">

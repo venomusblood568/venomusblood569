@@ -22,7 +22,7 @@ cause I am lazy to write anthing more.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on  myself and my life that's all...
+- 🔭 I’m currently working for Satan 
   
   
 

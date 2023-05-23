@@ -35,12 +35,14 @@ cause I am lazy to write anthing more.
 - ⚡ Fun fact: demons and angels all are real  
   
 
-- Let's build the future, one commit at a time! 🚀
+- 🚀 Let's build the future, one commit at a time! 
 
 
+- ❤️‍🔥 "Coding virtuoso on a mission to sculpt digital wonders, one line at a time."
 
 
-
+- 🖤 "Unleashing innovation through code, I dance with algorithms and defy the ordinary."
+  
 
 </td><td valign="top" width="50%">
 

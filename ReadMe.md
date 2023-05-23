@@ -84,6 +84,7 @@ cause I am lazy to write anthing more.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomusblood568&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
+  
 </td></tr></table>  
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=venomusblood568)](https://git.io/streak-stats)
 <br/>  

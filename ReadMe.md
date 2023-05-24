@@ -76,16 +76,15 @@ cause I am lazy to write anthing more.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=venomusblood568&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=venomusblood568&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venomusblood568&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomusblood568&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
   
-<img src="https://github-readme-stats.vercel.app/api?username=venomusblood568&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /></br>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomusblood568&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-  
-</td></tr></table>  
 <br/>  

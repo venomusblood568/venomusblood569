@@ -26,12 +26,6 @@ cause I am lazy to write anthing more.
 
 - 🌱 I’m currently learning about life and its bugs  
   
-- ❓ Ask me about invisible demons  
-  
-
-- ⚡ Fun fact: demons and angels all are real  
-  
-
 - 🚀 Let's build the future, one commit at a time! 
 
 

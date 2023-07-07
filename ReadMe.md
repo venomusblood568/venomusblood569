@@ -25,9 +25,6 @@ cause I am lazy to write anthing more.
 - 🌙 Harnessing the moonlight of technology, I bring dreams to life with lines of code.
 
 - 🌱 I’m currently learning about life and its bugs  
-  
-- 🚀 Let's build the future, one commit at a time! 
-
 
 - ❤️‍🔥 "Coding virtuoso on a mission to sculpt digital wonders, one line at a time."
 
@@ -39,8 +36,6 @@ cause I am lazy to write anthing more.
 - 🌌 With each keystroke, I unlock the secrets of the digital underworld.
 
 - 🧠 Constantly pushing the boundaries, I harness the power of code to challenge conventional thinking.
-
-- 🌟 Blending creativity and logic, I conjure enchanting software solutions that bewitch users.
 
 - 📚 A student of the occult arts of programming, I unravel the mysteries of code and its hidden realms.
 

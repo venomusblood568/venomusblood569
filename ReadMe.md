@@ -22,13 +22,10 @@ cause I am lazy to write anthing more.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working for Satan 
-  
-  
+- 🌙 Harnessing the moonlight of technology, I bring dreams to life with lines of code.
 
 - 🌱 I’m currently learning about life and its bugs  
   
-
 - ❓ Ask me about invisible demons  
   
 
@@ -42,6 +39,18 @@ cause I am lazy to write anthing more.
 
 
 - 🖤 "Unleashing innovation through code, I dance with algorithms and defy the ordinary."
+
+- 💻 Embracing the dark side of coding, I explore the depths of software sorcery.
+
+- 🌌 With each keystroke, I unlock the secrets of the digital underworld.
+
+- 🧠 Constantly pushing the boundaries, I harness the power of code to challenge conventional thinking.
+
+- 🌟 Blending creativity and logic, I conjure enchanting software solutions that bewitch users.
+
+- 📚 A student of the occult arts of programming, I unravel the mysteries of code and its hidden realms.
+
+- 🎩 Like a magician of the digital realm, I mesmerize with my coding tricks and illusions.
   
 
 </td><td valign="top" width="50%">

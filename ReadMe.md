@@ -47,7 +47,7 @@ cause I am lazy to write anthing more.
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/57/a1/f5/57a1f5c651c37be59a6b953934bcf7bc.jpg" align="center" style="width: 100%" />
+<img src="/gith.jpg" align="center" style="width: 100%" />
 </div>  
 
 

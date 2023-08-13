@@ -7,7 +7,9 @@
 <a href="https://www.instagram.com/freaky_minded_guy/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+<a href="https://www.linkedin.com/in/gourav-anand-jha/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 
 

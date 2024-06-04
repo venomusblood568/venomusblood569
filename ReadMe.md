@@ -94,6 +94,45 @@ cause I am lazy to write anthing more.
   <img src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif" height="200" alt="Your GIF" />
 </div>
 
+##
+<div align="center">
+
+```python
+        _  _     _            _        
+       (_)| |   | |          | |       
+  __ _  _ | |_  | |__    ___ | | _ __  
+ / _` || || __| | '_ \  / _ \| || '_ \ 
+| (_| || || |_  | | | ||  __/| || |_) |
+ \__, ||_| \__| |_| |_| \___||_|| .__/ 
+  __/ |                         | |    
+ |___/                          |_|    
+
+# Initialize a new Git repository in the current directory
+git init
+
+# Add all files in the current directory to the staging area
+git add .
+
+# Commit the changes with a message "initial commit"
+git commit -m "initial commit"
+
+# Add a remote repository named "origin" with the URL 
+# pointing to your GitHub repository
+git remote add origin https://github.com/yourusername/your-repo-name.git
+
+# Rename the current branch to "main" (assuming you're using Git version 2.28 or newer)
+git branch -M main
+
+# Push the committed changes from the "main" branch to the "origin" remote repository
+git push -u origin main
+
+## after pushing this you should be good if not then use ⬇️ them
 
 
-<br/>  
+===========================================================================
+# Remove the existing Git repository from the current directory
+rm -rf .git
+
+# Forcefully push the changes to the "master" branch of the remote repository named "origin" 
+# (be cautious as this might overwrite history)
+git push origin master --force

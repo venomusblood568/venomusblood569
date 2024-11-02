@@ -84,7 +84,9 @@ cause I am lazy to write anthing more.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomusblood568&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-  
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venomusblood568&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 ##
 <div align="center">
 

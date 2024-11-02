@@ -1,4 +1,5 @@
-## Hey 👋, I'm GOURAV ANAND (SAM)
+## Hey 👋, I'm GOURAV ANAND (SAM) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=venomusblood568.venomusblood568">
+
   
 
 <a href="https://github.com/venomusblood568" target="_blank">
@@ -10,8 +11,6 @@
 <a href="https://www.linkedin.com/in/gourav-anand-jha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-
 
 ### Glad to see you here!  
 let's do some coding and talk about angels and demons. 
